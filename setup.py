@@ -19,13 +19,13 @@ with io.open("wagtail_color_panel/__init__.py", "r", encoding="utf8") as fd:
 
 setup(
     version=version,
-    name="wagtail-color-panel",
-    description="",
+    name="cjkcms-color-panel",
+    description="Forked & published on pypi for use in cjkcms and in any wagtail 6.x project that needs an updated version of wagtail-color-panel",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Martin Sandström",
+    author="Martin Sandström. Forked by cjkpl from torchbox/wagtail-color-panel",
     author_email="martin@marteinn.se",
-    url="https://github.com/marteinn/wagtail-color-panel",
+    url="https://github.com/cjkpl/cjkcms-color-panel",
     packages=find_packages(
         exclude=("*.tests", "*.tests.*", "tests.*", "tests", "example*")
     ),
