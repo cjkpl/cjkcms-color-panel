@@ -19,7 +19,7 @@ with io.open("wagtail_color_panel/__init__.py", "r", encoding="utf8") as fd:
 
 setup(
     version=version,
-    name="wagtail-color-panel",
+    name="cjkcms-color-panel",
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",

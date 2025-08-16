@@ -2,6 +2,13 @@
 
 # Wagtail-Color-Panel
 
+## Forked to Cjkcms-Color-Panel
+by (cjkpl)[https://github.com/cjkpl/cjkcms-color-panel]
+
+Wagtail-Color-Panel does not yet support Wagtail 7.x. This fork does.
+
+---
+
 Introduces panels for selecting colors in Wagtail.
 
 ![Screen1](https://raw.githubusercontent.com/marteinn/wagtail-color-panel/develop/img/img-in-streamfield.png)
