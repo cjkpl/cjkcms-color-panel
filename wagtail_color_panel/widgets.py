@@ -3,7 +3,7 @@ import json
 from django.forms import widgets
 from django.utils.safestring import mark_safe
 from wagtail import VERSION as WAGTAIL_VERSION
-from wagtail.telepath import register
+from wagtail.admin.telepath import register
 from wagtail.widget_adapters import WidgetAdapter
 
 
